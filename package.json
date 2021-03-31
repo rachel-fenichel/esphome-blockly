@@ -1,0 +1,20 @@
+{
+  "name": "esphome-blockly",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachel-fenichel/esphome-blockly.git"
+  },
+  "author": "Rachel Fenichel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rachel-fenichel/esphome-blockly/issues"
+  },
+  "homepage": "https://github.com/rachel-fenichel/esphome-blockly#readme"
+}
